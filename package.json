@@ -1,0 +1,9 @@
+{
+  "name": "TVGala",
+  "main": "app.js",
+  "description": "Système de TV pour le Gala de l'UTT",
+  "dependencies": {
+    "express": "^4.12.0",
+    "forever": "^0.11.1"
+  }
+}
